@@ -1,0 +1,20 @@
+---
+title: "Improvements to make"
+format: html
+---
+
+
+## List of possible improvements to web reports
+
+* add CRCS maps and materials
+* add sclass descriptions
+* add documents/data page with links to downloads
+* consider blending with maps for context (instead of cropping)
+* set up so all processing is done in one directory (if possible with git LFS) instead of doing GIS then web report
+* consider rlandfire package
+* add GitHub/Code buttons
+* have scripts for each chart...functions?
+* reduce number of BpSs in the disturbance chart
+
+
+Wait to see what RIMC team says!
